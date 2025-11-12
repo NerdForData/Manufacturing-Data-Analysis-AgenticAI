@@ -114,10 +114,6 @@ This produces `analysis_report.md` in the project folder.
 ```bash
 streamlit run streamlit_app.py
 ```
-If streamlit is not launched automatically, then it can be viewed here- `http://localhost:850` in your browser, or at the IP shown in your terminal.
----
-
-## Outputs
 
 - **`unified_dataset_sample.csv`** → Example merged dataset.  
 - **`analysis_report.md`** → Pass/fail summary, defect traceability, anomaly counts.  
